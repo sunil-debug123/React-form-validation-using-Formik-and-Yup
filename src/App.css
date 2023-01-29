@@ -28,6 +28,10 @@
   color: #61dafb;
 }
 
+.cancel {
+  cursor: pointer;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
